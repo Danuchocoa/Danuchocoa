@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adem</h1>
 <h3 align="center">Automation engineering & Industrial Informatics |Signal processing | Deep & Machine learning |</h3>
-<img align="right" alt="GIF" src="https://github.com/bloopdex/bloopdex/blob/main/signal-gif-1.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/Danuchocoa/Danuchocoa/blob/main/signal-gif-1.gif?raw=true" width="500"/>
 
 - 🔭 I’m currently working on [/](/)
 
